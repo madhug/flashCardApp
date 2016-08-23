@@ -1,0 +1,25 @@
+{
+  "name": "flashCardsApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhug/flashCardApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhug/flashCardApp/issues"
+  },
+  "homepage": "https://github.com/madhug/flashCardApp#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.5.3",
+    "graphql": "^0.6.2"
+  }
+}
