@@ -1,0 +1,31 @@
+########################
+# node.js / npm
+########################
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+coverage
+
+node_modules
+
+npm-debug.log
+
+
+########################
+# system / editors
+########################
+*.swp
+*~
+*#
+.DS_STORE
+keys
+.env
